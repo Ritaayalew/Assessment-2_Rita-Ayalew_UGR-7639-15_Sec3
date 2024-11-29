@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+header{
+    padding: 11px 14% 13px;
+    height: 130px;
+}
+header p{
+    padding-left:15%;
+}
+header h1{
+    margin-bottom: 30px;
+}
+.container{
+    margin: 0 14% 30px 14%;
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    max-width: 68%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.content{
+    max-width:295px;
+    padding: 17px 0 7px 0;
+}
+.content h2{
+    padding-bottom: 7px;
+}
+.content img{
+    width: 287px;
+    
+}
+aside{
+    height: 400px;
+    padding: 0 8px;
+    border-radius: 10px;
+    min-width: 220px;
+}
+.image-container{
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin: 13px 0;
+}
+.more-info{
+    padding-top: 13px;
+}
+aside h2{
+    margin: 17px 0;
+}
+aside ul li{
+    margin:13px 0;
+}
+.sponsors{
+    margin: 13px 0;
+}
+.appendix{
+    padding: 20px 14%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.appendix h2{
+    padding-bottom: 13px;
+}
+.about{
+    max-width: 40%;
+}
+.gallery{
+    max-width:27% ;
+} 
+.contact{
+    max-width:30% ;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    padding: 22px 14%;
+    align-items: center;
+    box-sizing: inherit;
+    border-top: 1px solid rgb(136, 131, 131);
+}
+.copyright ul{
+    display: flex;
+}
+.copyright ul li{
+    margin-left: 13px;
+}
+.topic h2{
+    padding-bottom: 9px;
+}
+.topic{
+   margin: 17px 0 21px;
+}
+.topic p{
+    margin-bottom: 12px;
+}
+.contact-us p{
+    padding: 13px 0 3px;
+}
+.contact-us{
+    margin: 17px 0 21px;
+}
+.contact-us input{
+    width:500px ;
+    height: 25px;
+    min-width: 200px;
+    border: 1px solid black;
+}
+.contact-us button{
+    display: block;
+    margin:12px 0 12px 0;
+    padding: 4px 0;
+    width: 90px;
+    background-color: rgb(225, 225, 225);
+    border: 1px solid rgb(64, 61, 61);
+    font-size: 15px;
+}
+.contact-us textarea{
+    width: 500px;
+}
+.contact-entry{
+    margin-bottom: 13px;
+}
+.gallery img{
+    width: 70px;
+    margin: 2px 2px;
+}
+lil-image-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.about-container img{
+    float: left;
+    width:90px;
+    object-fit: contain;
+    margin: 0 10px 0 0;
+}
+
+
+

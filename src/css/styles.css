@@ -1,0 +1,76 @@
+header{
+    background-color: rgb(30, 3, 48);
+}
+header h1{
+    color: white;
+    font-size: 41px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header p{
+    color: white;
+}
+h1 .redish{
+    color: rgb(227, 112, 112);
+}
+nav button{
+    background-color: rgb(91, 30, 147);
+    border: 1px solid rgb(93, 30, 151);
+    color: white;
+    padding: 7px 5px;
+    border-radius: 3px;
+    margin: 0 2px;
+    cursor: pointer;
+}
+nav button:hover{
+    background-color: rgb(136, 31, 140);
+}
+.content h2{
+    color:rgb(79, 17, 123) ;
+    font-size: 26px;
+}
+.red-link{
+    color: rgb(200, 74, 74);
+}
+.green-link{
+    color: rgb(122, 39, 199);
+}
+aside{
+    background-color:rgb(230, 225, 235);
+    box-shadow: 15px 5px 15px rgba(0, 0, 0, 0.3);
+}
+aside h2{
+    color: rgb(79, 17, 123);
+    font-size: 26px;
+}
+aside ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+aside ul li a:hover{
+    text-decoration: underline;
+    color: rgb(111, 22, 87);
+}
+footer{
+    background-color:  rgb(51, 35, 61) ;
+    color: white;
+}
+.about a, .copyright a, .contact a{
+    color: rgb(178, 117, 235);
+}
+.copyright{
+    background-color: rgb(40, 30, 48);
+}
+.copyright .white{
+    color: white;
+    text-decoration: none;
+}
+.topic h2{
+    color:rgb(79, 17, 123) ;
+    font-size: 26px;
+}
+.contact-us h2{
+    color:rgb(79, 17, 123) ;
+    font-size: 26px;
+}
+
