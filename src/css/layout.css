@@ -125,6 +125,7 @@ aside ul li{
 }
 .contact-us textarea{
     width: 500px;
+    height: 100px;
 }
 .contact-entry{
     margin-bottom: 13px;
