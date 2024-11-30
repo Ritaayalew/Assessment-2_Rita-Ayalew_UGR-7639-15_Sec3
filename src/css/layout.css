@@ -64,20 +64,20 @@ aside ul li{
 .appendix{
     padding: 20px 14%;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 .appendix h2{
     padding-bottom: 13px;
 }
 .about{
-    max-width: 40%;
+    max-width: 350px;
 }
 .gallery{
-    max-width:27% ;
+    max-width:260px ;
 } 
 .contact{
-    max-width:30% ;
+    max-width:260px ;
 }
 .copyright{
     display: flex;
